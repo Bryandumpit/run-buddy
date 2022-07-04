@@ -16,3 +16,5 @@ https://bryandumpit.github.io/run-buddy/
 ##Contribution
 
 Made with <3 by Bryan Dumpit
+
+### ©️2019 Run Buddy, Inc 
