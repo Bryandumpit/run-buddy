@@ -4,16 +4,16 @@
 
 A website that offers fitness training services.
 
-##Built With
+## Built With
 
 *HTML
 
 *CSS
 
-##Website
+## Website
 https://bryandumpit.github.io/run-buddy/
 
-##Contribution
+## Contribution
 
 Made with <3 by Bryan Dumpit
 
